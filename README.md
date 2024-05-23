@@ -7,8 +7,9 @@
 
 🔄 **For second and subsequent Runs** 🔁
 
-1. Navigate to Script Directory: Use **cd** to go to your script folder.
-2. Run the Script: Type **.\psearch.ps1**
+1. Open Powershell 
+2. Navigate to Script Directory: Use **cd** to go to your script folder.
+3. Run the Script: Type **.\psearch.ps1**
 
 🚀 Keep scripting and exploring! 🌈💻
 
