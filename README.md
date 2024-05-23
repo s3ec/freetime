@@ -5,7 +5,7 @@
 3. Navigate to Script Directory: Use cd to go to your script folder.
 4. Run the Script: Type .\psearch.ps1
 
-🔄 **Subsequent Runs** 🔁
+🔄 **For second and third ..etc Runs** 🔁
 
 1. Navigate to Script Directory: Use cd to go to your script folder.
 2. Run the Script: Type .\psearch.ps1
