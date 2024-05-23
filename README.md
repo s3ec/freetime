@@ -10,5 +10,7 @@ Navigate to Script Directory: Use cd to reach your script folder.
 Run the Script:  .\psearch.ps1  
 
 if u r running it second or third or etc..time
+
 Navigate to Script Directory: Use cd to reach your script folder.
+
 Run the Script:  .\psearch.ps1
