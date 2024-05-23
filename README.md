@@ -8,6 +8,8 @@ Navigate to Script Directory: Use cd to go to your script folder.
 
 Run the Script: Type .\psearch.ps1.
 
+
+
 🔄 Subsequent Runs 🔁
 
 Navigate to Script Directory: Use cd to go to your script folder.
