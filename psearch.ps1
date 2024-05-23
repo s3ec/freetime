@@ -91,7 +91,7 @@ foreach ($query in $SearchQueries) {
     if ($SearchedQueries -notcontains $query) {
         $SearchedQueries += $query
 
-        Start-Process msedge "https://www.bing.com"
+        Start-Process msedge 
         Start-Sleep -Seconds 5
 
         $shell.AppActivate('Microsoft Edge')
