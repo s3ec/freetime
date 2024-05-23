@@ -1,16 +1,17 @@
-# freetime
-if u r running it in first time
+🌟 First Time Run 🚀
 
-Click the Windows button, search for PowerShell, right-click on it, and select "Run as administrator".
+Click the Windows button, search for PowerShell, right-click, and choose "Run as administrator".
 
-run this command : Set-ExecutionPolicy RemoteSigned
+Enter the command: Set-ExecutionPolicy RemoteSigned.
 
-Navigate to Script Directory: Use cd to reach your script folder.
+Navigate to Script Directory: Use cd to go to your script folder.
 
-Run the Script:  .\psearch.ps1  
+Run the Script: Type .\psearch.ps1.
 
-if u r running it second or third or etc..time
+🔄 Subsequent Runs 🔁
 
-Navigate to Script Directory: Use cd to reach your script folder.
+Navigate to Script Directory: Use cd to go to your script folder.
 
-Run the Script:  .\psearch.ps1
+Run the Script: Type .\psearch.ps1.
+
+🚀 Keep scripting and exploring! 🌈💻
