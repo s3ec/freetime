@@ -1,4 +1,4 @@
-🌟Please login in edge 🌟
+🌟Please login in Microsoft edge 🌟
 
 🌟 **First Time Run** 🚀
 
