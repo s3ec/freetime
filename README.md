@@ -4,7 +4,7 @@
 
 1. Click the Windows button, search for PowerShell, right-click, and choose **Run as administrator**
 2. Enter the command: **Set-ExecutionPolicy RemoteSigned** 
-4. open powershell run this command: winget install -e --id Git.Git  if u got installation prompt please do yes 
+4. open powershell run this command: winget install -e --id Git.Git    (if u got installation prompt please do yes )
 5.run this comand : git clone https://github.com/s3ec/freetime
 6. Navigate to Script Directory: Use **cd freetime** to go to your script folder.
 7. Run the Script: Type **.\psearch.ps1**
