@@ -6,6 +6,8 @@
 2. Enter the command: **Set-ExecutionPolicy RemoteSigned**
 3. Navigate to Script Directory: Use **cd** to go to your script folder.
 4. Run the Script: Type **.\psearch.ps1**
+   
+If you want to stop script use ctrl+c 
 
 🔄 **For second and subsequent Runs** 🔁
 
