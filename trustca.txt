@@ -1,0 +1,10 @@
+su
+mkdir -p -m 700 /data/local/tmp/nacert
+cp /data/misc/user/0/cacerts-added/* /data/local/tmp/nacert
+cp /system/etc/security/cacerts/* /data/local/tmp/nacert
+mount -t tmpfs tmpfs /system/etc/security/cacerts
+mv /data/local/tmp/nacert/* /system/etc/security/cacerts/
+chown root:root /system/etc/security/cacerts/*
+chmod 644 /system/etc/security/cacerts/*
+chcon u:object_r:system_file:s0 /system/etc/security/cacerts/*
+echo 'System cacerts setup completed'
