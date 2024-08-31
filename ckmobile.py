@@ -1,3 +1,12 @@
+import time
+
+# Wait for 10,800 seconds (3 hours)
+time.sleep(10800)
+
+# Print the message
+print("Searching is going to start")
+
+
 import requests
 import time
 import random
